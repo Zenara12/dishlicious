@@ -11,7 +11,7 @@ useSeoMeta({
   ogTitle: title,
   ogDescription: description,
   ogImage: "/nuxt-course-hero.png",
-  ogUrl: `http:localhost:3000`,
+  ogUrl: 'https://dishlicious.vercel.app/',
   twitterTitle: title,
   twitterDescription: description,
   twitterImage: "/nuxt-course-hero.png",

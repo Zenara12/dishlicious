@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import appCredentials from '~~/constant/appCredintials';
-const { title, description } = appCredentials;
+const { title } = appCredentials;
 
 useHead({
   titleTemplate: `%s ${title}`,

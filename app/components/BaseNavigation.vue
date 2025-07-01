@@ -13,7 +13,7 @@ const navigations = [
   <header class="py-4 border-b">
     <nav class="flex container items-center">
       <NuxtLink to="/" class="flex gap-1 items-center">
-        <NuxtImg src="/icon-green.png" sizes="xs:10vw sm:5vw md:5vw lg:5vw" densities="x1" />
+        <NuxtImg class="w-10" src="/icon-green.png" width="56px" height="56px" densities="x1" format="webp" />
         <span class="lg:text-3xl font-bold">{{ title }}</span>
       </NuxtLink>
       <ul class="flex gap-6 ml-auto lg:text-xl font-bold capitalize">

@@ -18,6 +18,7 @@ useHead({
   <div class="font-Montserrat">
 
     <NuxtLayout>
+      <VitePwaManifest />
       <NuxtPage />
     </NuxtLayout>
 
